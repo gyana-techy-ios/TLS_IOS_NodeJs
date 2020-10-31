@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "A4088023-B737-4137-A4E9-31E9D7F7525C"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "82B6ABCC-A9C2-4B09-98CD-DF026B9E5184"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TLS_Stream_Poc/TLS1.2/TLS/TCPManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "227"
+            endingLineNumber = "227"
+            landmarkName = "stream(_:handle:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "EB35E107-96A0-48F7-B75B-F5D09E37A75B"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TLS_Stream_Poc/TLS1.2/TLS/Certificate.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "61"
+            endingLineNumber = "61"
+            landmarkName = "validateServerB9Certificate(for:completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9CF277F1-94A3-480D-A7D6-FF80AA5F8DA5"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TLS_Stream_Poc/TLS1.2/TLS/TCPManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "234"
+            endingLineNumber = "234"
+            landmarkName = "stream(_:handle:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "9CF277F1-94A3-480D-A7D6-FF80AA5F8DA5 - eb0fd04fcf165b1f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (Foundation.Data, Foundation.Data) -&gt; () in TLS_Stream_Poc.TcpSocketManager.stream(_: __C.NSStream, handle: __C.NSStreamEvent) -&gt; ()"
+                  moduleName = "TLS_Stream_Poc"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/gyanaprakashgouda/Downloads/TLS_Finial_Gyana/TLS_BackUp/TLS_Stream_Poc/TLS_Stream_Poc/TLS1.2/TLS/TCPManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "234"
+                  endingLineNumber = "234"
+                  offsetFromSymbolStart = "144">
+               </Location>
+               <Location
+                  uuid = "9CF277F1-94A3-480D-A7D6-FF80AA5F8DA5 - dd92765e79e7c455"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (__C.GMEllipticCurveCrypto) -&gt; () in closure #2 (Foundation.Data, Foundation.Data) -&gt; () in TLS_Stream_Poc.TcpSocketManager.stream(_: __C.NSStream, handle: __C.NSStreamEvent) -&gt; ()"
+                  moduleName = "TLS_Stream_Poc"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/gyanaprakashgouda/Downloads/TLS_Finial_Gyana/TLS_BackUp/TLS_Stream_Poc/TLS_Stream_Poc/TLS1.2/TLS/TCPManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "235"
+                  endingLineNumber = "235"
+                  offsetFromSymbolStart = "132">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F1F58926-952D-4337-8A72-D75AAC5DE92C"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TLS_Stream_Poc/TLS1.2/TLS/Certificate.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "44"
+            endingLineNumber = "44"
+            landmarkName = "validateServerB9Certificate(for:completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "FCF26933-817E-4BB3-9986-378A3DE2C012"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TLS_Stream_Poc/TLS1.2/TLS/TCPManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "233"
+            endingLineNumber = "233"
+            landmarkName = "stream(_:handle:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "FCF26933-817E-4BB3-9986-378A3DE2C012 - b21227bf2b9accaf"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TLS_Stream_Poc.TcpSocketManager.stream(_: __C.NSStream, handle: __C.NSStreamEvent) -&gt; ()"
+                  moduleName = "TLS_Stream_Poc"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/gyanaprakashgouda/Downloads/TLS_Finial_Gyana/TLS_BackUp/TLS_Stream_Poc/TLS_Stream_Poc/TLS1.2/TLS/TCPManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "233"
+                  endingLineNumber = "233"
+                  offsetFromSymbolStart = "2040">
+               </Location>
+               <Location
+                  uuid = "FCF26933-817E-4BB3-9986-378A3DE2C012 - eb0fd04fcf165b1f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (Foundation.Data, Foundation.Data) -&gt; () in TLS_Stream_Poc.TcpSocketManager.stream(_: __C.NSStream, handle: __C.NSStreamEvent) -&gt; ()"
+                  moduleName = "TLS_Stream_Poc"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/gyanaprakashgouda/Downloads/TLS_Finial_Gyana/TLS_BackUp/TLS_Stream_Poc/TLS_Stream_Poc/TLS1.2/TLS/TCPManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "234"
+                  endingLineNumber = "234"
+                  offsetFromSymbolStart = "144">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

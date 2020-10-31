@@ -1,0 +1,22 @@
+{
+  "name": "GMECurveCrypto",
+  "platforms": {
+    "ios": "11.0"
+  },
+  "summary": "Elliptic Crypto library used for encryption",
+  "requires_arc": true,
+  "version": "0.1.0",
+  "license": {
+    "type": "Honeywell",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Amjad": "Amjad.Patan@honeywell.com"
+  },
+  "homepage": "https://bitbucket.honeywell.com/projects/MACA/repos/ios-security-gmellipticcurvecrypto/browse",
+  "source": {
+    "git": "https://bitbucket.honeywell.com/scm/maca/ios-security-gmellipticcurvecrypto.git",
+    "tag": "0.1.0"
+  },
+  "source_files": "GMECurveCrypto/**/*.{h,m}"
+}

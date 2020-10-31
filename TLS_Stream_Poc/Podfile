@@ -1,0 +1,14 @@
+platform :ios, '10.0'
+
+target 'TLS_Stream_Poc' do
+  # Comment the next line if you don't want to use dynamic frameworks
+  use_frameworks!
+
+  # Pods for TLS_Stream_Poc
+  pod 'ObjectMapper'
+  pod "GMEllipticCurveCrypto"
+  pod 'CryptoSwift', '~>0.15.0'
+  pod 'SwiftyRSA'
+
+  
+end
